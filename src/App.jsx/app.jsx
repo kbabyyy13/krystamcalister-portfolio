@@ -13,7 +13,7 @@ import TestimonialsSection from '../components/TestimonialsSection';
 import ContactSection from '../components/ContactSection';
 import Footer from '../components/Footer';
 
-const profilePic = "https://placehold.co/400x400/E0218A/FFFFFF?text=KM";
+const profilePic = "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F69b4cf24b9504468a1f9578aa4d96154?format=webp&width=800";
 
 const kwCaseStudyData = {
   title: "KW Plumbing TX",
