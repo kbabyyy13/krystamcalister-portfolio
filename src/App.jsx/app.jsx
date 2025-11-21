@@ -135,7 +135,7 @@ const greyCanvasData = {
   slides: [
     {
       title: "The Vision",
-      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2Fdec074d73f01417cb3e2860e4d587bef?format=webp&width=800",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F58dd8360f1d74541ae231ed2c3faf213?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
@@ -188,7 +188,7 @@ const greyCanvasData = {
     },
     {
       title: "Admin & Content Management",
-      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F58dd8360f1d74541ae231ed2c3faf213?format=webp&width=800",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2Fdec074d73f01417cb3e2860e4d587bef?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
