@@ -104,7 +104,7 @@ const kwCaseStudyData = {
     },
     {
       title: "The Outcome & Impact",
-      image: "https://placehold.co/800x600/E0218A/FFFFFF?text=Client+Testimonial",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F4bd32cae5aef4ee68cbf720937de859b?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
