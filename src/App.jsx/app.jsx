@@ -135,7 +135,7 @@ const greyCanvasData = {
   slides: [
     {
       title: "The Vision",
-      image: "https://placehold.co/800x600/202020/E0218A?text=The+Grey+Canvas+Home",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2Fdec074d73f01417cb3e2860e4d587bef?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
@@ -150,7 +150,7 @@ const greyCanvasData = {
     },
     {
       title: "The Tech Stack",
-      image: "https://placehold.co/800x600/202020/E0218A?text=Admin+Dashboard",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F1ff112536eb24b8daaf5b507e1cb393f?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
@@ -177,7 +177,7 @@ const greyCanvasData = {
             </div>
             <div className="bg-white/50 p-3 rounded-lg border border-pink-100">
               <div className="flex items-center gap-2 text-[#E0218A] font-bold mb-1">
-                🔒 Security
+                �� Security
               </div>
               <p className="text-xs">Custom Admin Auth, CSRF protection, and secure headers.</p>
             </div>
@@ -188,7 +188,7 @@ const greyCanvasData = {
     },
     {
       title: "Admin & Content Management",
-      image: "https://placehold.co/800x600/202020/E0218A?text=Backend+Logic",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F58dd8360f1d74541ae231ed2c3faf213?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
@@ -208,7 +208,7 @@ const greyCanvasData = {
     },
     {
       title: "Social Impact",
-      image: "https://placehold.co/800x600/202020/E0218A?text=DVAM+Awareness",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F0735e9d601ad4532abf2eb0829973f8a?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
