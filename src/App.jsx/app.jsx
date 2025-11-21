@@ -21,7 +21,7 @@ const kwCaseStudyData = {
   slides: [
     {
       title: "The Client & Challenge",
-      image: "https://placehold.co/800x600/E0218A/FFFFFF?text=KW+Homepage",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2Fddb17b6462ca45aab2d6acf5cd5a436b?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
@@ -36,7 +36,7 @@ const kwCaseStudyData = {
     },
     {
       title: "My Partnership & Solution",
-      image: "https://placehold.co/800x600/E0218A/FFFFFF?text=About+Page",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2F8b001b7086464f4391dc50a7b6c57791?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
@@ -54,7 +54,7 @@ const kwCaseStudyData = {
     },
     {
       title: "Key Features Delivered",
-      image: "https://placehold.co/800x600/E0218A/FFFFFF?text=Services",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2Ff29fc357e43941d4a36c6136ef513629?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p className="font-bold text-black font-playfair">Comprehensive Feature Set:</p>
@@ -70,7 +70,7 @@ const kwCaseStudyData = {
     },
     {
       title: "Service Area & Reach",
-      image: "https://placehold.co/800x600/E0218A/FFFFFF?text=Service+Map",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2Fd3cd42f667cc4889b158bac9aa06155f?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
@@ -85,7 +85,7 @@ const kwCaseStudyData = {
     },
     {
       title: "Seamless Booking Experience",
-      image: "https://placehold.co/800x600/E0218A/FFFFFF?text=Booking+Form",
+      image: "https://cdn.builder.io/api/v1/image/assets%2F6f5d5f7446c045e8b269afa20dfd86a5%2Fc84e51fb18274ef2a5e031eec161ebe6?format=webp&width=800",
       content: (
         <div className="space-y-4 text-[#7A7A7A]">
           <p>
